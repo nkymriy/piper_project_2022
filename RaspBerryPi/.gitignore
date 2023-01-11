@@ -1,0 +1,5 @@
+__pycache__
+DHT11_Python/
+nohup.out
+tempture.json
+env.py
